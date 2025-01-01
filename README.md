@@ -1,5 +1,4 @@
 # 👩‍💻 Rafaela Bertoni
-**Backend Developer**
 ---
 
 Hi there!
