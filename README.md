@@ -4,7 +4,7 @@
 
 Hi there!
 
-I’m Rafaela, a 19-year-old from São Paulo, Brazil.
+I’m Rafaela, a 19 year old from São Paulo, Brazil.
 I always have been fascinated by technology and how it shapes our world. Currently, I’m studying Analysis and Systems Development, diving deeper into programming and development.
 
 This space is where I’ll share my projects, feel free to explore!
