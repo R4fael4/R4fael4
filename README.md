@@ -66,6 +66,25 @@ This space is where I’ll share my projects, feel free to explore!
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"       
 /> 
 
+<img 
+    align="left"
+    alt="Vscode"
+    title="Vscode"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"       
+/> 
+
+<img 
+    align="left"
+    alt="ArchLinux"
+    title="ArchLinux"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"       
+/> 
+
+
 <br/>
 <br/>
 
